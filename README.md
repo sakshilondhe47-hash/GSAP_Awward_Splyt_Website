@@ -1,40 +1,51 @@
-🚀 Animated React Website (Awwwards Style)
+# 🚀 Animated React Website (Awwwards Style)
 
-A stunning, interactive, and modern website inspired by Awwwards Site of the Day winners. Built with React.js, Tailwind CSS, and GSAP (GreenSock Animation Platform) to deliver immersive animations, smooth scrolling, and jaw-dropping UI interactions.
+A stunning, interactive, and modern web experience inspired by **Awwwards Site of the Day** winners.  
+Built with **React.js**, **Tailwind CSS**, and **GSAP** to create immersive animations, smooth scrolling effects, and engaging UI interactions.
+
 ---
-🚀 Introduction
 
-Dive into creating a cutting-edge web experience designed for Awwwards recognition, powered by the incredible animation capabilities of GSAP.
+## 🚀 Introduction
 
-This project demonstrates how to create:
+This project showcases how to build a visually rich and animation-driven website using modern frontend technologies.
 
-Fluid page transitions
-Smooth scrolling experiences
-Advanced parallax effects
-Dynamic text reveals
-Stunning clip-path animations
-Fully responsive layouts
+With the power of **GSAP**, you can create:
 
-Using React.js, Tailwind CSS, and GSAP, you'll learn how modern award-winning websites are crafted.
+- Fluid page transitions
+- Smooth scrolling experiences
+- Advanced parallax effects
+- Dynamic text reveal animations
+- Clip-path animations
+- Fully responsive layouts
+
+Designed to deliver an experience similar to modern award-winning websites.
+
 ---
-⚙️ Tech Stack
-⚛️ React 19
-🌀 Tailwind CSS v4
-🎞️ GSAP (GreenSock Animation Platform)
-✨ Features
 
-In this project, you'll learn how to:
+## ⚙️ Tech Stack
 
-✨ Build smooth Parallax Effects
-⚡️ Create advanced Clip-Path Animations
-🕹️ Master ScrollTrigger & ScrollSmoother
-😉 Pin elements beautifully during scroll
-🧑‍💻 Reveal text like professional Awwwards websites
-👏 Create cinematic GSAP Timelines
-📱 Build a fully responsive and mobile-friendly UI
+- ⚛️ React 19
+- 🌀 Tailwind CSS v4
+- 🎞️ GSAP (GreenSock Animation Platform)
+
 ---
+
+## ✨ Features
+
+- ✨ Smooth Parallax Effects
+- ⚡ Advanced Clip-Path Animations
+- 🕹️ ScrollTrigger & ScrollSmoother
+- 😉 Pinned Scroll Sections
+- 🧑‍💻 Dynamic Text Reveal Effects
+- 👏 Cinematic GSAP Timelines
+- 📱 Fully Responsive Design
+
+---
+
+
+
 
 ## 👨‍💻 Author
 
-Your Name  
+**Sakshii Londhe**  
 GitHub: https://github.com/sakshilondhe47-hash
